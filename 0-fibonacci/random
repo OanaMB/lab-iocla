@@ -1,0 +1,7 @@
+mov edx, ebx
+    add edx, eax
+    mov ebx, eax
+    mov eax, edx
+     ;dec ecx
+     ;cmp ecx , 0
+     ;jne fibonacci
